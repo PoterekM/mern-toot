@@ -4,3 +4,5 @@ https://www.youtube.com/watch?v=QA29Qvr9rdw
 
 
 `node server.js`
+
+`node bin/www`
